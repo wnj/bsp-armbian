@@ -1,3 +1,0 @@
-[submodule "userpatches/overlay"]
-	path = userpatches/overlay
-	url = git@github.com:wnj/trustbox.git
