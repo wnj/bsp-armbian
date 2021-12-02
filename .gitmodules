@@ -1,0 +1,3 @@
+[submodule "userpatches"]
+	path = userpatches
+	url = git@github.com:wnj/trustbox.git
